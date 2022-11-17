@@ -1,0 +1,38 @@
+
+
+body {
+    margin: 0;
+    background: #111827;
+}
+
+.container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: #F9FAFB;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+.button {
+    background: #0a0001;
+    font-size: 18px;
+    color: #F9FAFB;
+    width: px;
+    margin: 1px;
+}
+
+.set {
+    background: #0a0001;
+    font-size: 35px;
+    color: #F94F6D;
+    width: px;
+    margin: 0px;
+}
+
